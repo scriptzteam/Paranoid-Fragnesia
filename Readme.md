@@ -1,3 +1,4 @@
+```
 # Fragnesia mitigation script
 #
 # This script:
@@ -14,3 +15,4 @@
 #     - libreswan
 #     - some enterprise VPNs
 #     - AFS/RxRPC services
+```
